@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/10 12:32:22.000.998,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/09/10 12:32:22.000.905,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/03/31 18:57:55.000.324,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/03/31 18:57:55.000.241,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/05/11 15:50:22.000.146,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/05/11 15:50:22.000.283,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/05/11 15:51:56.000.948,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/05/11 15:55:45.000.131,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2024/05/11 18:40:59.000.892,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Estructura_Datos_1\Proyecto_Turing\Unit2.cpp</Transaction>
+    <Transaction>2024/05/11 18:40:59.000.843,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Estructura_Datos_1\Proyecto_Turing\Project1PCH1.h</Transaction>
+    <Transaction>2024/05/11 18:40:59.000.868,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Estructura_Datos_1\Proyecto_Turing\Unit1.dfm</Transaction>
+    <Transaction>2024/05/11 18:40:59.000.931,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Estructura_Datos_1\Proyecto_Turing\Project1.cbproj</Transaction>
+    <Transaction>2024/05/11 18:40:59.000.914,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.h=C:\Estructura_Datos_1\Proyecto_Turing\Unit3.h</Transaction>
+    <Transaction>2024/05/11 18:40:59.000.914,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.cpp=C:\Estructura_Datos_1\Proyecto_Turing\Unit3.cpp</Transaction>
+    <Transaction>2024/05/11 18:40:59.000.868,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Estructura_Datos_1\Proyecto_Turing\Unit1.cpp</Transaction>
+    <Transaction>2024/05/11 18:40:59.000.892,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Estructura_Datos_1\Proyecto_Turing\Unit2.h</Transaction>
+    <Transaction>2024/05/11 18:40:59.000.868,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Estructura_Datos_1\Proyecto_Turing\Unit1.h</Transaction>
+    <Transaction>2024/05/11 18:41:07.000.248,C:\Estructura_Datos_1\Proyecto_Turing\Unit1.cpp=C:\Estructura_Datos_1\Proyecto_Turing\Formulario.cpp</Transaction>
+    <Transaction>2024/05/11 18:41:07.000.248,C:\Estructura_Datos_1\Proyecto_Turing\Unit1.dfm=C:\Estructura_Datos_1\Proyecto_Turing\Formulario.dfm</Transaction>
+    <Transaction>2024/05/11 18:41:07.000.248,C:\Estructura_Datos_1\Proyecto_Turing\Unit1.h=C:\Estructura_Datos_1\Proyecto_Turing\Formulario.h</Transaction>
+    <Transaction>2024/05/11 18:41:18.000.792,C:\Estructura_Datos_1\Proyecto_Turing\Unit3.h=C:\Estructura_Datos_1\Proyecto_Turing\Transicion.h</Transaction>
+    <Transaction>2024/05/11 18:41:18.000.792,C:\Estructura_Datos_1\Proyecto_Turing\Unit3.cpp=C:\Estructura_Datos_1\Proyecto_Turing\Transicion.cpp</Transaction>
+    <Transaction>2024/05/11 18:41:20.000.769,C:\Estructura_Datos_1\Proyecto_Turing\Project1.cbproj=C:\Estructura_Datos_1\Proyecto_Turing\Project1.cbproj</Transaction>
+    <Transaction>2024/05/11 18:41:35.000.855,C:\Estructura_Datos_1\Proyecto_Turing\Unit2.cpp=C:\Estructura_Datos_1\Proyecto_Turing\Turing.cpp</Transaction>
+    <Transaction>2024/05/11 18:41:35.000.855,C:\Estructura_Datos_1\Proyecto_Turing\Unit2.h=C:\Estructura_Datos_1\Proyecto_Turing\Turing.h</Transaction>
+  </Transactions>
+</BorlandProject>
